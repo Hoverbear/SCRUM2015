@@ -1,12 +1,12 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <p class="lead">{{ site.description }}</p>
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -26,6 +26,7 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="http://2015.middleware-conference.org/">Middleware 2015</a>
     </nav>
   </div>
 </div>

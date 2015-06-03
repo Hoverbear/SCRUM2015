@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            SCRUM
+title:            'SCRUM'
 tagline:          'Strategies for Consistency, Replication, and Understandability in Middleware'
-description:      'Strategies for Consistency, Replication, and Understandability in Middleware'
+description:      '<span>Strategies for</span> <span>Consistency,</span> <span>Replication, and</span> <span>Understandability in</span> <span>Middleware</span>'
 url:              http://scrum2015.cs.uvic.ca
 baseurl:          /
 

@@ -3,13 +3,21 @@ layout: page
 title: Committee
 ---
 
+Program Committee:
+
+* None, yet!
+
 Organizing Committee:
 
-* **[Celina Berg (UBC)](TODO)**: Lorem Ipsum for a few sentences.
-* **[Annette Bieniusa](mailto:bieniusa@cs-uni-kl.de)** *(Co-organizer)*: Just talk about some things. No pressure.
-* **[Yvonne Coady (UVIC)](mailto:ycoady@cs.uvic.ca)** *(Co-organizer)*: If you don't know what to say, talk about what your interests are.
-* **[Christine Morin (INRIA Rennes Bretagne Atlantique, FR)](TODO)** *(Accepted)*:  Or what your students are working on.
-* **[Vivien Quma (INP Grenoble, FR)](TODO)**: Maybe even include a picture! We can handle that!
-* **[Marc Shapiro](mailto:marc.shapiro@acm.org)** *(Co-organizer)*: It'll be great.
+* **Annette Bieniusa (Universität Kaiserslautern)** *(Co-organizer)*
+* **Marc Shapiro (INRIA Paris-Rocquencourt)** *(Co-organizer)*
+* **Yvonne Coady (Uni. Victoria)** *(Co-organizer)*
+* **Celina Berg (Uni. British Columbia)**
+* **Christine Morin (INRIA Rennes Bretagne Atlantique, FR)**
+* **Vivien Quma (INP Grenoble, FR)**
+* **Alan Wanger (Uni. British Columbia)**
 
-Other important people go below...
+Other:
+
+* **Andrew Hobden (Uni. Victoria)** *Webmaster*
+
