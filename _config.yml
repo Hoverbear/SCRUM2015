@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            SCRUM
+tagline:          'Strategies for Consistency, Replication, and Understandability in Middleware'
+description:      'Strategies for Consistency, Replication, and Understandability in Middleware'
+url:              http://scrum2015.cs.uvic.ca
+baseurl:          /
+
+author:
+  name:           'Yvonne Coady'
+  url:            http://webhome.cs.uvic.ca/~ycoady/
+
+paginate:         5
+
