@@ -13,12 +13,19 @@ Someday, Faketember, 2016
 </thead>
 <tbody>
     <tr>
-        <td>9:00AM</td>
-        <td>9:30AM</td>
+        <td>TBA</td>
+        <td>TBA</td>
         <td>Breakfast</td>
     </tr>
+    <tr>
+        <td>TBA</td>
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>TBA</td>
+        <td>TBA</td>
+        <td>Lunch</td>
+    </tr>
 </tbody>
-<tfoot>
-    <tr><td>Start</td><td>End</td><td>Description</td>
-</tfoot>
 </table>

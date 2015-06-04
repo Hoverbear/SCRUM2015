@@ -7,19 +7,15 @@ title: Committee
 
 Program Committee:
 
-* None, yet!
+* **Christine Morin (INRIA Rennes Bretagne Atlantique, FR)**
+* **Alan Wanger (Uni. British Columbia)**
+* **Vivien Quma (INP Grenoble, FR)**
+* (More coming soon...)
 
 Organizing Committee:
 
 * **Annette Bieniusa (Universität Kaiserslautern)** *(Co-organizer)*
 * **Marc Shapiro (INRIA Paris-Rocquencourt)** *(Co-organizer)*
 * **Yvonne Coady (Uni. Victoria)** *(Co-organizer)*
-* **Celina Berg (Uni. British Columbia)**
-* **Christine Morin (INRIA Rennes Bretagne Atlantique, FR)**
-* **Vivien Quma (INP Grenoble, FR)**
-* **Alan Wanger (Uni. British Columbia)**
-
-Other:
-
-* **Andrew Hobden (Uni. Victoria)** *Webmaster*
+* **Andrew Hobden (Uni. Victoria)** *(Webmaster)*
 
