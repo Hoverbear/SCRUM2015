@@ -3,6 +3,8 @@ layout: page
 title: Committee
 ---
 
+![Gulls on a wall](/public/img/wall-gulls.jpg)
+
 Program Committee:
 
 * None, yet!
