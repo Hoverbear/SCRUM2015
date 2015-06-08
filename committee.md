@@ -8,8 +8,8 @@ title: Committee
 Program Committee:
 
 * **Christine Morin (INRIA Rennes Bretagne Atlantique, FR)**
-* **Alan Wanger (Uni. British Columbia)**
 * **Vivien Quma (INP Grenoble, FR)**
+* **Alan Wanger (Uni. British Columbia)**
 * (More coming soon...)
 
 Organizing Committee:
