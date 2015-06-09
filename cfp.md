@@ -36,3 +36,11 @@ Tentative workshop paper submission and notification deadlines:
 2. September 20, 2015 – Notifications
 3. October 3, 2015 – Camera Ready Papers
 
+All papers must be written in English and formatted according to the
+ACM proceedings format. Submissions must not be more than six (6)
+pages, and shorter papers are also encouraged. Papers must be
+submitted in PDF format via the workshop Web site and will be accepted
+based on relevance to the topics of the workshop, technical
+contribution, and potential for an interesting discussion.  Authors of
+accepted papers will have the option to publish electronically in the
+ACM Digital Library.

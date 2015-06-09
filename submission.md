@@ -9,10 +9,8 @@ title: Submission
     Deadline is August 20th, 2015.
 </div>
 
-All papers must be written in English and formatted addording to the ACM proceedings format. Submissions must not be more than five (5) pages. This limit will be strictly enforced, and shorter papers are encouraged. App papers must be submitted via PDF format to the website. Oaoers will be evaluated based on technical quality, originality, relevance, and presentation.
+All papers must be written in English and formatted according to the ACM proceedings format. Submissions must not be more than six (6) pages, and shorter papers are also encouraged. Papers must be submitted in PDF format via the workshop Web site and will be accepted based on relevance to the topics of the workshop, technical contribution, and potential for an interesting discussion. Authors of accepted papers will have the option to publish electronically in the ACM Digital Library.
 
-Accepted papers will be published electronically in the ACM Digital Library. The authors of accepted papers will be required to sign ACM copyright release forms. The publication of a paper in the SCRUM workshop proceedings is not intended to replace further conference publication.
+Paper submissions will be handled by EasyChair:
 
-Paper submissions will be handled by EasyChar:
-
-`// TODO: Check back for a link in a few days!`
+<a class="button" href="https://easychair.org/conferences/?conf=scrum2015">Make Submission on Easychair</a>

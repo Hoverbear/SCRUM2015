@@ -5,7 +5,12 @@ title: Program
 
 ![Gulls](/public/img/chaos-gulls.jpg)
 
-Someday, Faketember, 2016
+<div class="message">
+    The program will appear later.
+</div>
+
+
+9th December, 2015
 
 <table>
 <thead>
