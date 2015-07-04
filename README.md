@@ -6,4 +6,4 @@ Steps to update:
   * `git pull`
   * Edit your files. `jekyll serve` in the dir will live update.
   * `jekyll build` when done. Output is in `./_site`.
-  * Copy this to the FTP server.
+  * Copy `./_site/` to the FTP server.
