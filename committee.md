@@ -7,15 +7,22 @@ title: Committee
 
 Program Committee:
 
-* **Christine Morin (INRIA Rennes Bretagne Atlantique, FR)**
-* **Vivien Quma (INP Grenoble, FR)**
-* **Alan Wanger (Uni. British Columbia)**
+* **Masoud Saeida Ardekani** (Purdue, US)
+* **Carlos Baquero** (Universidade do Minho, PT)
+* **Andrew Brownsword** (Oracle, CA)
+* **Eric Eide** (University of Utah, US)
+* **Christine Morin** (INRIA Rennes Bretagne Atlantique, FR)
+* **Vivien QuEma** (INP Grenoble, FR)
+* **Nuno Preguiça** (Universidade Nova de Lisboa, PT)
+* **Stefan Schmid** (Technische Universität Berlin, DE)
+* **Alan Wanger** (Uni. British Columbia, CA)
+* **Thomas Fuhrmann** (Amazon Web Services Germany GmbH)
+* **Oliver Hohlfeld** (RWTH Aachen Germany)
 * (More coming soon...)
 
 Organizing Committee:
 
-* **Annette Bieniusa (Universität Kaiserslautern)** *(Co-organizer)*
-* **Marc Shapiro (INRIA Paris-Rocquencourt)** *(Co-organizer)*
-* **Yvonne Coady (Uni. Victoria)** *(Co-organizer)*
-* **Andrew Hobden (Uni. Victoria)** *(Webmaster)*
-
+* **Annette Bieniusa** (Universität Kaiserslautern, DE) *(Co-organizer)*
+* **Marc Shapiro** (INRIA Paris-Rocquencourt, FR) *(Co-organizer)*
+* **Yvonne Coady** (Uni. Victoria, CA) *(Co-organizer)*
+* **Andrew Hobden** (Uni. Victoria, CA) *(Webmaster)*
