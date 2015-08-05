@@ -8,7 +8,7 @@ title: Call for Papers
 Middleware is often constructed from components and interconnects spanning a wide range
 of programming languages and frameworks, executing in environments with unpredictable
 latencies, unknown availability, and concurrent demand for resources. Designing, deploying,
-and reasoning about consistency models (e.g., serializability, snapshot isolation, 
+and reasoning about consistency models (e.g., serializability, snapshot isolation,
 eventual consistency, etc.) and invariants (e.g., partial order, equivalence, or generic guarantees,
 etc.) involves subtle tradeoffs in terms of fault tolerance, performance, scalability and programmability.
 
@@ -44,3 +44,5 @@ based on relevance to the topics of the workshop, technical
 contribution, and potential for an interesting discussion.  Authors of
 accepted papers will have the option to publish electronically in the
 ACM Digital Library.
+
+> AUTHORS TAKE NOTE: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of your conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)
