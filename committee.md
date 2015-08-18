@@ -18,7 +18,6 @@ Program Committee:
 * **Vivien QuEma** (INP Grenoble, FR)
 * **Stefan Schmid** (Technische Universität Berlin, DE)
 * **Alan Wanger** (Uni. British Columbia, CA)
-* (More coming soon...)
 
 Organizing Committee:
 

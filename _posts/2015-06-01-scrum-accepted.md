@@ -9,6 +9,6 @@ Please join is as we discuss Strategies for Consistency, replication, and Unders
 
 Tentative workshop paper submission and notification deadlines:
 
-1. August 20, 2015 – Paper Submissions
-2. September 20, 2015 – Notifications
-3. October 3, 2015 – Camera Ready Papers
+1. <s>August 20, 2015 – Paper Submissions</s>
+2. <s>September 20, 2015 – Notifications</s>
+3. <s>October 2, 2015 – Camera Ready Papers</s>
