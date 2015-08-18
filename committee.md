@@ -11,13 +11,13 @@ Program Committee:
 * **Carlos Baquero** (Universidade do Minho, PT)
 * **Andrew Brownsword** (Oracle, CA)
 * **Eric Eide** (University of Utah, US)
-* **Christine Morin** (INRIA Rennes Bretagne Atlantique, FR)
-* **Vivien QuEma** (INP Grenoble, FR)
-* **Nuno Preguiça** (Universidade Nova de Lisboa, PT)
-* **Stefan Schmid** (Technische Universität Berlin, DE)
-* **Alan Wanger** (Uni. British Columbia, CA)
 * **Thomas Fuhrmann** (Amazon Web Services Germany GmbH)
 * **Oliver Hohlfeld** (RWTH Aachen Germany)
+* **Christine Morin** (INRIA Rennes Bretagne Atlantique, FR)
+* **Nuno Preguiça** (Universidade Nova de Lisboa, PT)
+* **Vivien QuEma** (INP Grenoble, FR)
+* **Stefan Schmid** (Technische Universität Berlin, DE)
+* **Alan Wanger** (Uni. British Columbia, CA)
 * (More coming soon...)
 
 Organizing Committee:
